@@ -4,3 +4,5 @@ date: '2020-07-30T00:00:36+02:00'
 author: Jonas Ole Jensen
 ---
 New post, who dis?
+
+that might be a crutial question in order to gain things.
